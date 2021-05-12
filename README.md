@@ -1,6 +1,6 @@
 # This is small project which demonistrates below tasks:
 
->APACHE USING USER SCRIPTS [*]
+>APACHE USING USER SCRIPTS - [x]
 >
 >AWS REKOGNITION
 >
