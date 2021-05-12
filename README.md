@@ -1,4 +1,4 @@
-# This is small project which demonistrates below tasks:
+# This AWS project will help you to complete below tasks:
 
 >APACHE USING USER SCRIPTS
 >
